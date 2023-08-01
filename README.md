@@ -2,7 +2,7 @@
 
 #Go [HERE](https://exp.host/@nurenshams/nativeapp?release-channel=default) to check the app but we need to install expo go from Apple store or google play store to see the app running.
 
-<img src="[https://your-image-url.type](https://github.com/whyshams/Full-Stack-React-Native-JWT-Authentication/assets/72270901/af785bbe-2a5f-44b4-8272-ce61c263c2e8)" width="100">
+<img src="[https://your-image-url.type](https://github.com/whyshams/Full-Stack-React-Native-JWT-Authentication/assets/72270901/af785bbe-2a5f-44b4-8272-ce61c263c2e8)" width="10">
 
 ![Screenshot_20230802-002010](https://github.com/whyshams/Full-Stack-React-Native-JWT-Authentication/assets/72270901/af785bbe-2a5f-44b4-8272-ce61c263c2e8)
 ![Screenshot_20230802-002123](https://github.com/whyshams/Full-Stack-React-Native-JWT-Authentication/assets/72270901/1797033b-9b34-4003-a23b-f4927cdba0a7 | width=100)
